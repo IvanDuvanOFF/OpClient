@@ -1,0 +1,30 @@
+{
+  "nodeId": {
+    "namespaceIndex": {
+      "value": 3
+    },
+    "identifier": {
+      "value": 1002
+    }
+  },
+  "displayName": {
+    "text": "Counter"
+  },
+  "description": {
+    "text": ""
+  },
+  "value": {
+    "value": {
+      "value": 10
+    },
+    "status": {
+      "value": 0
+    },
+    "sourceTime": {
+      "utcTime": 133337858400000000
+    },
+    "serverTime": {
+      "utcTime": 133337858400010000
+    }
+  }
+}

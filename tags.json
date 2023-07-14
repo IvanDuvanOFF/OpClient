@@ -1,0 +1,210 @@
+[
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1001
+      }
+    },
+    "displayName": {
+      "text": "Constant"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {},
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337726222890000
+      },
+      "serverTime": {
+        "utcTime": 133337858287730000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1002
+      }
+    },
+    "displayName": {
+      "text": "Counter"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 8
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287750000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1003
+      }
+    },
+    "displayName": {
+      "text": "Random"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 1.061793
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287760000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1004
+      }
+    },
+    "displayName": {
+      "text": "Sawtooth"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 0.0
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287770000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1005
+      }
+    },
+    "displayName": {
+      "text": "Sinusoid"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 1.732051
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287790000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1006
+      }
+    },
+    "displayName": {
+      "text": "Square"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 2.0
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287800000
+      }
+    }
+  },
+  {
+    "nodeId": {
+      "namespaceIndex": {
+        "value": 3
+      },
+      "identifier": {
+        "value": 1007
+      }
+    },
+    "displayName": {
+      "text": "Triangle"
+    },
+    "description": {
+      "text": ""
+    },
+    "value": {
+      "value": {
+        "value": 1.333333
+      },
+      "status": {
+        "value": 0
+      },
+      "sourceTime": {
+        "utcTime": 133337858200000000
+      },
+      "serverTime": {
+        "utcTime": 133337858287820000
+      }
+    }
+  }
+]
